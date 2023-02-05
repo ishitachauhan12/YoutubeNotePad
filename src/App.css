@@ -13,8 +13,18 @@
   }
 }
 
+.editorClassName{
+  background-color: #2B2A2B;
+  height:inherit;
+  padding: 20px 
+}
+
+.wrapperClassName{
+  height:inherit
+}
+
 .App-header {
-  background-color: #282c34;
+  background-color: #090909;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
