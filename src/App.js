@@ -1,12 +1,12 @@
 import "./App.css";
 import Home from "./components/Home";
+import Note from "./components/NoteOpened";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <Home />
-      </header>
+      <Home />
+      {/* <Note /> */}
     </div>
   );
 }
